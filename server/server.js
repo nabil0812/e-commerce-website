@@ -12,6 +12,7 @@ app.use(express.static("public"));
 
 // connect to the mongodb database
 /* connectDB() */
+connectDB();
 
 app.use('/api/items', require("./routes/items"))
 app.use('/api/payment', cors(), require("./routes/payment"))
