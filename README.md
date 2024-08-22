@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MERN Ecommerce Application
 
 <code>Currently under construction for additional features</code>
@@ -54,6 +53,3 @@ After this you can run the project locally:
 - [Expressjs](https://expressjs.com)
 - [Mongoose](https://mongoosejs.com)
 - [Material UI](https://mui.com/)
-=======
-# e-commerce-website
->>>>>>> 3b28af33a7a9a339009853c14ef46f8ca0138b8c
